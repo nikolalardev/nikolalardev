@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [Mage-OS documentation](https://devdocs.mage-os.org/docs/main)
-- 📫 How to reach me: nikolalardev@gmail.com
+
+## 📫 Contact
+
+* [Linkedin](https://www.linkedin.com/in/nikolalardev/)
 <!--
 **nikolalardev/nikolalardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
