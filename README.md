@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [Mage-OS documentation](https://devdocs.mage-os.org/docs/main)
+- - 🌱 I’m currently learning Go
 
 ## 📫 Contact
 
